@@ -13,6 +13,7 @@ The program calculates the greatest common divisor (gcd) of the two jugs' capaci
 
 Gameplay Loop:
 The program enters an interactive loop where the user can input various commands to manipulate the water in the jugs:
+
 fill1: Fills the first jug to its capacity.
 
 fill2: Fills the second jug to its capacity.
